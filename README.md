@@ -8,16 +8,13 @@ current_job: high school student
 education:
   - "Grigore Moisil" High School, Timisoara
 
-fields_of_interests:
+fields_of_interest:
   - "Embedded Development"
   - "Software Development"
   - "OOP"
 
 currently_learning:
   - "Python"
-
-2025_goals:
-  - "Create projects and learn more."
 
 hobbies:
   - "Drawing"
